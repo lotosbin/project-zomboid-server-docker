@@ -1,2 +1,6 @@
 projectzomboid/
 .vscode
+.env
+server-data
+server-files
+logs
